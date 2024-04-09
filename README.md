@@ -8,6 +8,10 @@
 
 <h2>📃 Certifications:</h2>
 
+<a href="https://www.credly.com/badges/920f1d48-b570-448d-8183-6b5cb5709f7e">
+  <img src="https://github.com/jduong-me/GitHub-Image-Hosting/assets/128167475/980dc00b-1f23-4ad4-b8e7-92b498c004cf" width="10%" height="10%">
+</a>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JeremyDuong | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
