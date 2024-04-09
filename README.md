@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jeremy! <br/>IT Specialist</a>, Cybersecurity Student</a>, Gamer</a></h1>
+<h1>Hello, I'm Jeremy! <br/>IT Support</a>, Cybersecurity Student</a>, Gamer</a></h1>
 
 <h2>🐍 Python Projects:</h2>
 
