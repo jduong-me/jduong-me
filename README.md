@@ -15,7 +15,7 @@ My love for gaming and technology has led me to develop a passion for cybersecur
   <img src="https://github.com/jduong-me/GitHub-Image-Hosting/assets/128167475/980dc00b-1f23-4ad4-b8e7-92b498c004cf" width="10%" height="10%">
 </a>
 <a href="https://www.credly.com/badges/265301ab-f21a-4af4-a372-a78bb941d172">
-  <img src="https://github.com/jduong-me/GitHub-Image-Hosting/assets/128167475/40a50dab-d884-47ad-802f-312c009261cd" width="10%" height="10%">
+  <img src="https://github.com/user-attachments/assets/40a50dab-d884-47ad-802f-312c009261cd" width="10%" height="10%">
 </a>
 <a href="https://www.credly.com/badges/9d0b3a02-6cc0-4bbf-bf26-075192ec592d">
   <img src="https://github.com/jduong-me/GitHub-Image-Hosting/assets/128167475/619bc26d-466b-4591-ae02-3592781fb8ad" width="10%" height="10%">
