@@ -21,7 +21,7 @@ My love for gaming and technology has led me to develop a passion for cybersecur
   <img src="https://github.com/user-attachments/assets/619bc26d-466b-4591-ae02-3592781fb8ad" width="10%" height="10%">
 </a>
 <a>
-  <img src="https://github.com/user-attachments/assets/eb44aa7d-954d-4a7a-9ce7-fd900df47500" width="10%" height="10%">
+  <img src="https://github.com/user-attachments/assets/8da1d0ac-aacd-487f-9a55-f33f467cadcb" width="10%" height="10%">
 </a>
 <div>
 
